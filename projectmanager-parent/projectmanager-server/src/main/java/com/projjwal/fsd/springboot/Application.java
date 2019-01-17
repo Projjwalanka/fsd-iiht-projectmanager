@@ -18,7 +18,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication(exclude = {SecurityAutoConfiguration.class })
 @EnableSwagger2
-@ComponentScan(basePackages = "com.vigneshsuryah.springboot")
+@ComponentScan(basePackages = "com.projjwal.fsd.springboot")
 public class Application extends SpringBootServletInitializer {
  
 	
