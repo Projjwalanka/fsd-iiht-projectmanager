@@ -56,7 +56,7 @@ public class ProjectManagerControllerTest {
 	@Test
 	public void testTest() {
 		String testhome = projectManagerController.testhome();
-		Assert.assertEquals(testhome, "Project Manager App - Creator: Mani, Vignesh Suryah");
+		Assert.assertEquals(testhome, "Project Manager App - Cognizant IIHT FSD");
 	}
 	
 	

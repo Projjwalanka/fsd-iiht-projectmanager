@@ -32,7 +32,7 @@ public class ProjectManagerController {
 	
 	@GetMapping("/test")
 	public String testhome() {
-		return "Project Manager App - Creator: Mani, Vignesh Suryah";
+		return "Project Manager App - Cognizant IIHT FSD";
 	}
 	
 	
